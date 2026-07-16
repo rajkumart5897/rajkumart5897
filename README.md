@@ -1,4 +1,4 @@
-# Hi, I'm Rae 👋
+# Hi, I'm Raj Kumar 👋
 
 Student developer focused on building practical, useful tools and workflows that solve real problems.
 
