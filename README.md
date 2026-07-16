@@ -77,6 +77,6 @@ Linux hardware compatibility checker — scans PCI/USB devices, driver status, r
 ### 📫 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/rajkumar-arumugam-050487292?trk=contact-info)
-[Gmail](rajkumart5897@gmail.com)
+[Gmail](mailto:rajkumart5897@gmail.com)
 
 <p align="center"><i>Practical tools, honest documentation, and a habit of writing down what didn't work.</i></p>
