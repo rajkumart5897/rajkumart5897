@@ -45,13 +45,13 @@ ML job fraud detector combining a 5-model ensemble (Logistic Regression, Naive B
 Three-tier Linux memory management (zram → fast-partition swapfile → fallback swapfile) with systemd services and a watchdog that sends desktop alerts before OOM kills hit. Partition speed benchmarked with `hdparm`, not guessed.
 `Shell` `systemd`
 
-**🔔 [nag-engine](https://github.com/rajkumart5897/nag-engine)**
-Recurring reminder app for Android with escalating notification curves, offline SQLite storage, and QR-code task sharing between devices. Survives reboots and Doze mode via background fetch.
-`TypeScript` `Expo` `React Native`
-
-**✅ Task Manager** *(private repo)*
+**✅ [Personal Task Tracker](https://github.com/rajkumart5897/Personal-Task-Tracker)** 
 Multi-user Flask + SQLite task tracker with per-account isolation, CSRF-protected API, hashed password auth, and JSON import/export. Built and hardened as a security-fundamentals exercise — parameterized queries throughout, escaped output, constant-time token comparison.
 `Python` `Flask` `SQLite`
+
+**🖥️ [Hardware-Compat](https://github.com/rajkumart5897/Hardware-Compat)**
+Linux hardware compatibility checker — scans PCI/USB devices, driver status, rfkill blocks, SMART disk health, firmware updates, and battery/BIOS info, then gives exact fix commands via CLI or a local web dashboard. Zero pip dependencies — pure Python stdlib + standard Linux tools. *(actively improving hardware coverage)*
+`Python` `stdlib` `Linux`
 
 <details>
 <summary>🧪 Other explorations (concepts & early-stage)</summary>
@@ -60,17 +60,9 @@ Multi-user Flask + SQLite task tracker with per-account isolation, CSRF-protecte
 - **CAMELEON** — a written architecture concept for AI agent memory (emotion-weighted consolidation, interpretable expert routing). Not implemented — a design document, not working software.
 - **Tensora** — a documented 2-day log of a failed video-codec idea and what I learned about entropy limits and LLM-assisted design. Written as a post-mortem, on purpose.
 - **Smart-Curriculum-Activity-Attendance-App** — early-stage full-stack attendance tracker, actively work-in-progress.
+- **nag-engine** — Recurring reminder app for Android with escalating notification curves, offline SQLite storage, and QR-code task sharing between devices. Survives reboots and Doze mode via background fetch.
 
 </details>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rajkumart5897&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumart5897&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
@@ -84,6 +76,7 @@ Multi-user Flask + SQLite task tracker with per-account isolation, CSRF-protecte
 
 ### 📫 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/rajkumar-arumugam-050487292)
+[LinkedIn](https://www.linkedin.com/in/rajkumar-arumugam-050487292?trk=contact-info)
+[Gmail](rajkumart5897@gmail.com)
 
 <p align="center"><i>Practical tools, honest documentation, and a habit of writing down what didn't work.</i></p>
