@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Raj Kumar 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Student+Developer;Automation+%26+Practical+Tooling;Python+%C2%B7+JavaScript+%C2%B7+TypeScript&font=Fira%20Code&center=true&width=440&height=45&color=2E86AB&vCenter=true&pause=1500&size=22" alt="typing banner" />
+  <img src="https://komarev.com/ghpvc/?username=rajkumart5897&color=0a1c33" />
 </p>
 
 ### 👨‍💻 About Me
@@ -81,5 +82,5 @@ Linux hardware compatibility checker — scans PCI/USB devices, driver status, r
 <p align="center"><i>Practical tools, honest documentation, and a habit of writing down what didn't work.</i></p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajkumart5897&color=0a1c33" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajkumart5897&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=2563EB&text_color=333333" alt="GitHub stats" />
 </div>
