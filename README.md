@@ -79,3 +79,7 @@ Linux hardware compatibility checker — scans PCI/USB devices, driver status, r
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajkumart5897@gmail.com)
 
 <p align="center"><i>Practical tools, honest documentation, and a habit of writing down what didn't work.</i></p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajkumart5897&color=0a1c33" />
+</div>
